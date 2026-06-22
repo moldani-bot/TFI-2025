@@ -14,7 +14,10 @@ Tecnicatura Universitaria en Telecomunicaciones (TUT).
 Programacion
   
 ## Programa Utilizado 
-PseInt, Visual Studio Code
+PseInt
+Visual Studio Code
+Jupyter
+Python
  
 ## Descripción 
 
